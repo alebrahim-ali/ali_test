@@ -1,0 +1,1 @@
+This is where you can place template jade and call it with /jade/render/filename
